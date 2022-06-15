@@ -1,0 +1,1244 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hakkımızda</title>
+
+<meta name="description" content=" Sağlık Meslek Lisesi">
+
+<meta name="keywords" content="sınav,sınavsultanebeyli,en iyi okul,en iyi lise,en iyi ortaokul,sınav okulları,sınav sultanbeyli,özel okul,özel lise,özel ortaokul,ortaokul,lise,kolej,güller kolej,anadolu sağlık meslek lisesi,,güller,guller,özel,ozel okul">
+<link rel="shortcut icon" type="image/png" href="/favicons.png"/>
+
+
+
+
+ 
+
+<link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="style/css/fontawesome/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="style/css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="style/css/bootstrap-select.min.css">
+<link rel="stylesheet" type="text/css" href="style/css/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="style/css/style.css">
+<link class="skin"  rel="stylesheet" type="text/css" href="style/css/skin/skin-13.css">
+<link  rel="stylesheet" type="text/css" href="style/css/templete.css">
+<link rel="stylesheet" type="text/css" href="style/css/switcher.css"/>
+<!-- Revolution Slider Css -->
+<link rel="stylesheet" type="text/css" href="style/plugins/revolution/revolution/css/settings.css">
+<!-- Revolution Navigation Style -->
+<link rel="stylesheet" type="text/css" href="style/plugins/revolution/revolution/css/navigation.css">
+<!-- Google fonts -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Poppins:300,400,500,600,700|Roboto:100,300,400,500,700,900" rel="stylesheet">
+	<link href="style/cekirdek/css/hiratuva.css" rel="stylesheet" type="text/css" />
+
+<meta name="google-site-verification" content="3AkPf1HxVJ3iEFSdSn7ED0F8a-gO3id8gXA-ZayfBUE" />               
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170607018-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-170607018-1');
+</script>
+ 
+</head>
+<body id="bg">
+<div class="page-wraper">
+
+ 
+ 
+
+
+
+ <header class="site-header header-style-2">
+
+        <!-- top bar -->
+
+        <div class="top-bar">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="dez-topbar-left">
+
+                        <ul class="social-line text-center pull-right">
+
+                            <li><a href="tel:02163983535"><i class="fa fa-phone"></i> <span>02163983535</span> </a></li>
+
+                            <li><a href="mailto:info@guller.k12.tr"><i class="fa fa-envelope-o"></i> <span>info@guller.k12.tr</span></a></li>
+
+                        </ul>
+
+                    </div>
+
+                    <div class="dez-topbar-right">
+
+                        <ul class="social-line text-center pull-right">
+
+						 <li><a href="https://tr-tr.facebook.com/sinavsultanbeyli" class="fa fa-facebook"></a></li>
+
+                            <li><a href="" class="fa fa-twitter"></a></li>
+
+                            <li><a href="https://www.instagram.com/sinavsultanbeyli/" class="fa fa-instagram"></a></li>
+
+                            <li><a href="https://www.guller.k12.tr" class="fa fa-google-plus"></a></li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- top bar END-->
+
+        <!-- main header -->
+
+        <div class="sticky-header  main-bar-wraper">
+
+            <div class="main-bar clearfix ">
+
+                <div class="container clearfix">
+
+                    <!-- website logo -->
+
+					
+
+<div class="logo-header mostion"><a href="index.php"><img src="upload/manset/guller_logo_2.jpg" width="193" height="89" alt=""></a></div>
+
+
+                  
+
+                          <!-- nav toggle button -->
+                    <button data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggle collapsed"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <!-- extra nav -->     
+
+                    <!-- main nav -->
+
+                    <div class="header-nav navbar-collapse collapse">
+
+                        <ul class=" nav navbar-nav">
+
+                     <li class="  "><a href="index.php" />ANASAYFA</a></li><li class=" current-page-item "><a href="sayfa-hakkimizda-48.html" />HAKKIMIZDA</a></li><li class="dropdown-holder  "><a href="#" />EĞİTİM - ÖĞRETİM</a><ul class="sub-menu"><li><a href="hizmet-akademIk-10.html">AKADEMİK</a>
+
+                   		</li><li><a href="hizmet-sosyal-etkInlIk-11.html">SOSYAL ETKİNLİK</a>
+
+                   		</li><li><a href="hizmet-kulUplerImIz-14.html">KULÜPLERİMİZ</a>
+
+                   		</li><li><a href="hizmet-rehberlIk-12.html">REHBERLİK</a>
+
+                   		</li><li><a href="hizmet-butIk-okul-15.html">BUTİK OKUL</a>
+
+                   		</li><li><a href="hizmet-OGretmenler-17.html">ÖĞRETMENLERİMİZ</a>
+
+                   		</li><li><a href="hizmet-robotIk-kodlama-13.html">ROBOTİK KODLAMA</a>
+
+                   		</li></ul></li><li class="  "><a href="haberler-1.html" />HABERLER</a></li><li class="dropdown-holder  "><a href="#" />GALERİ</a><ul class="sub-menu"><li><a href="galeri-1.html">RESİM GALERİSİ</a>
+
+                   		</li><li><a href="videolar-1.html">VİDEO GALERİSİ</a>
+
+                   		</li></ul></li><li class="  "><a href="bilgiler-1.html" />S.S.S.</a></li><li class="  "><a href="iletisim.html" />İLETİŞİM</a></li> 
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- main header END -->
+
+    </header>   
+
+        <!-- inner page banner -->
+        <div class="dez-bnr-inr overlay-black-middle" style="background-image:url(style/images/background/bg4.jpg);">
+            <div class="container">
+                <div class="dez-bnr-inr-entry">
+                    <h1 class="text-white">Hakkımızda</h1>
+                </div>
+            </div>
+        </div>
+        <!-- inner page banner END -->
+        <!-- Breadcrumb row -->
+        <div class="breadcrumb-row">
+            <div class="container">
+                <ul class="list-inline">
+                    <li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Ana Sayfa</a></li>
+                    <li>Hakkımızda</li>
+                </ul>
+            </div>
+        </div>
+
+
+	        	<div class="container">
+	        		<div class="row">
+                    
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<div class="img-content">
+                            <center><img src="upload/galeri/myogen_hakkimizda.jpg" alt="Hakkımızda"></center>
+							</div> <!-- /.img-content -->   
+</div>
+
+                        
+	        			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 we-do-area">
+	        				<div class="theme-title">
+	        					<h2>Hakkımızda</h2>
+	        				</div> <!-- /.theme-title -->
+	        				<p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Değerli Velilerimiz, 2013-2014 Eğitim &Ouml;ğretim Yılında G&Uuml;LLER KOLEJİ olarak başlayan ser&uuml;venimizde; g&uuml;zel ahlaklı, başarılı, &ouml;zg&uuml;veni y&uuml;ksek ve lider ruhlu bireyler yetiştirmeyi kendimize vizyon edindik. &Ouml;ğrencilerimizi daha &uuml;st hedeflere taşımak, daha kaliteli eğitim hizmeti vermek ve s&ouml;z konusu vizyonu ger&ccedil;ekleştirebilmek i&ccedil;in s&uuml;rekli başarıya giden yolu ve kurumları takip ettik.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; İtina ile yaptığımız her t&uuml;rl&uuml; araştırma neticesinde bundan sonra; &ldquo;Eğitim sistemiyle T&uuml;rkiye&#39;nin &ouml;nc&uuml; kurumu, ulusal ve uluslararası başarıları ile &uuml;lkemizde zirve yapmış olan SINAV EĞİTİM KURUMLARI MARKASI&rdquo; ile yolumuza devam etme kararı aldık.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SINAV EĞİTİM KURUMLARINI TANIYALIM. 30 yılı aşkın eğitim ge&ccedil;mişi ve birikimine sahip; Kurumsal k&uuml;lt&uuml;r&uuml;, &ouml;zg&uuml;n eğitim programı, uluslararası d&uuml;zeyde İngilizce eğitimi, LGS-YKS&#39;de T&uuml;rkiye rekorları kıran &ouml;ğrenci başarıları, kapsamlı ve kaliteli yayınları, &ccedil;izgisinden asla taviz vermediği &ccedil;ağdaş ve demokratik anlayışı ile &uuml;lkenin lider, &ouml;nc&uuml;, yenilik&ccedil;i, kalite odaklı okulları olarak her yıl y&uuml;z binlerce &ouml;ğrenciyi geleceğe hazırlamaktadır. &Uuml;lke genelinde en fazla şubeye sahip ve bu yıl &ldquo;EN İYİ EĞİTİM MARKASI&rdquo; &ouml;d&uuml;l&uuml;n&uuml; alan Sınav Okulları, s&uuml;rekli ulusal ve uluslararası yenilikleri &ccedil;ok yakından takip ederek bu yenilikleri ivedilikle eğitim programına entegre etmektedir. Eğitim Sisteminde OKUL PROGRAMINA ek olarak KURS PROGRAMINI da ger&ccedil;ekleştiren Sınav Eğitim Kurumlarında &ouml;ğrenciler, eksik tamamlamak ve YKS / LGS&#39;ye hazırlık yapmak i&ccedil;in ayrıca bir kursa, kursa, et&uuml;de veya &ouml;zel derse ihtiya&ccedil; duymaz.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; BİZ SINAV OLDUKTAN SONRA; Okulumuzda bundan sonra; aşağıda belirtildiği gibi SINAV&#39;ın sistemi ve imkanları, olduk&ccedil;a hızlı ancak aşamalı olarak uygulamaya ge&ccedil;irilecektir. * &Ouml;ğrencilerimizin derste işleyeceği eğitim programları (YILLIK ve HAFTALIK PLANLAR ) d&uuml;zenli olarak Sınav Genel Merkezden gelecek ve sistematik olarak okulumuzda işlenecektir. * T&uuml;rkiye&#39;deki t&uuml;m SINAV OKULLARINDA eş zamanlı uygulanan MERKEZİ DENEME SINAVLARI ile sık sık &ouml;ğrencilerimizin ulusal başarıları &ouml;l&ccedil;&uuml;lecek (12. Sınıflarda her hafta), bu sınavlar ile velilerimiz tarafından da &ouml;ğrencinin T&uuml;rkiye&#39;deki sıralaması g&ouml;r&uuml;lecek ve eksiklerini tamamlama fırsatı doğacaktır * Sınav Yayınları, bu yılda olduğu gibi 2020-2021 Eğitim &ndash; &Ouml;ğretim yılında da okulumuzda ders kitabı olarak okutulacaktır. * T&uuml;rkiye&#39;deki t&uuml;m SINAV okullarında &ouml;ğrenciler aynı &ouml;devden sorumlu olmaktadırlar. * &Ouml;ğrencilerimizin hafta sonu &ouml;devleri T&Ouml;DEV fasik&uuml;l&uuml; şeklinde Genel Merkezden gelecek ve Cuma g&uuml;nleri &ouml;ğrencilere dağıtılacaktır. &Ouml;ğrencilerimizin hafta sonunda evde yapacakları &ouml;devler, &ouml;ğretmenleri tarafından hafta başında kontrol edilecek ve siz velilerimize bilgi verilecektir. * &Ouml;ğrencilerimizin yeteneklerini, ilgi alanlarını keşfetme ve motivasyonlarını y&uuml;ksek tutma hedefiyle spor, sanat, k&uuml;lt&uuml;r &ccedil;alışmalarını kapsayan AFTER SCHOOL PROGRAMI ve diğer bir &ccedil;ok uygulama ise &ouml;n&uuml;m&uuml;zdeki yıldan itibaren hız kazanacaktır. Ayrıntılarını sizlerle zamanı geldik&ccedil;e paylaşacağımız g&uuml;&ccedil;l&uuml; eğitim sistemimizden, &ouml;ğrencilerimizin azami oranda istifade etmeleri i&ccedil;in siz velilerimizin ilgi ve desteğinize ihtiyacımız vardır.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Her zaman olduğu gibi g&uuml;venle ve azimle hep birlikte yolumuza devam edeceğimiz inancıyla saygı ve sevgiler sunuyorum.</p>
+</p>
+	        			</div> <!-- /.we-do-area -->
+      
+                        
+	        		</div>
+	        	</div> <!-- /.container -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <footer class="site-footer footer-white">
+
+ <div class="p-tb20 bg-primary dez-newsletter overlay-primary-dark bg-img-fix" style="background-image:url(style/images/background/bg2.jpg);" >
+
+            <div class="container equal-wraper">
+
+                <div class="row">
+
+                    <form action="sistem/posta.php" method="get"  id="hesapform">
+
+                        <div class="col-md-4 col-sm-12">
+
+                            <div class="icon-bx-wraper  p-t20 left">
+
+                                <div class="icon-lg text-primary radius"> <a href="#" class="icon-cell"><i class="fa fa-envelope-o"></i></a> </div>
+
+                                <div class="icon-content"> <strong class="text-white text-uppercase font-18">E-Bülten</strong>
+
+                                    <h2 class="dez-tilte text-white text-uppercase">Kayıt OL!</h2>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-6 col-sm-9">
+    <font color="#FFFFFF"><b><div id="sonuc"></div></b></font>
+					    <font color="#FFFFFF"><b><div id="sonuc2"></div></b></font>
+                            <div class="input-group p-t40  p-b20">
+
+                                <input type="email" value="" name="eposta" placeholder="E Posta Adresiniz " class="form-control" >
+
+                            </div>
+
+                        </div>
+  <input  type="hidden" name="sonuc" id="sonuc" value="Mail adresiniz kaydedilmiştir.Teşekkürler">
+					    <input  type="hidden" name="sonuc2" id="sonuc2" value="Daha önce kayıt olmuşsunuz.">
+					<input  type="hidden" name="isim" id="isim" value="0">
+                        <div class="col-md-2 col-sm-3 ">
+
+                            <div class="input-group p-t40 p-b20">
+
+                                <button type="submit" name="submit" class="site-button-secondry z-index1"> <span>Kayıt Ol</span> <i class="fa fa-angle-right m-l10"></i> </button>
+
+                            </div>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- newsletter part -->
+
+        <!-- footer top part -->
+
+        <div class="footer-top">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-3 col-sm-6 footer-col-4">
+
+                        <div class="widget widget_about">
+
+						
+
+<div class="logo-footer"><img src="upload/manset/guller_logo.jpg" alt=""></div>
+
+
+                            <p>              Güvenilir Okul, Bilinçli Eğitim
+
+
+
+</p>
+
+                            <ul class="dez-social-icon border">
+
+                                <li><a class="fa fa-facebook" href="https://tr-tr.facebook.com/sinavsultanbeyli"></a></li>
+
+                                <li><a class="fa fa-twitter" href="https://www.guller.k12.tr"></a></li>
+
+                                <li><a class="fa fa-instagram" href="https://www.instagram.com/sinavsultanbeyli/"></a></li>
+
+                                <li><a class="fa fa-google" href="https://www.guller.k12.tr"></a></li>
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 footer-col-4">
+
+                        <div class="widget recent-posts-entry">
+
+                            <h4 class="m-b15 text-uppercase">Son Haberler</h4>
+
+                            <div class="dez-separator-outer m-b10">
+
+                                <div class="dez-separator bg-white style-skew"></div>
+
+                            </div>
+
+                            <div class="widget-post-bx">
+
+                              
+
+                                <div class="widget-post clearfix">
+
+                                    <div class="dez-post-media"> <img src="upload/blog/gullerkoleji.jpg" alt="" width="200" height="160"> </div>
+
+                                    <div class="dez-post-info">
+
+                                        <div class="dez-post-header">
+
+                                            <h6 class="post-title  text-uppercase"><a href="haber-kan-bagisi-kampanyasi-56.html">Kan Bağışı Kampanyası</a></h6>
+
+                                        </div>
+
+                                        <div class="dez-post-meta">
+
+                                            <ul>
+
+                                                <li class="post-author">Kasım</li>
+
+                                                <li class="post-comment">04</li>
+
+                                            </ul>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+								
+
+								
+
+                                <div class="widget-post clearfix">
+
+                                    <div class="dez-post-media"> <img src="upload/blog/yedek_reklam.jpg" alt="" width="200" height="160"> </div>
+
+                                    <div class="dez-post-info">
+
+                                        <div class="dez-post-header">
+
+                                            <h6 class="post-title  text-uppercase"><a href="haber-Ozel-okul-secimi-quothUrrIyetquot-55.html">Özel okul seçimi &quot;HÜRRİYET&quot;</a></h6>
+
+                                        </div>
+
+                                        <div class="dez-post-meta">
+
+                                            <ul>
+
+                                                <li class="post-author">Temmuz</li>
+
+                                                <li class="post-comment">20</li>
+
+                                            </ul>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+								
+
+								
+
+                                <div class="widget-post clearfix">
+
+                                    <div class="dez-post-media"> <img src="upload/blog/61300982_622389424921584_7664774417121017856_n.jpg" alt="" width="200" height="160"> </div>
+
+                                    <div class="dez-post-info">
+
+                                        <div class="dez-post-header">
+
+                                            <h6 class="post-title  text-uppercase"><a href="haber-toki-adil-Ilkokulunda-hijyen-egitimi-54.html">Toki Adil İlkokulu'nda Hijyen Eğitimi</a></h6>
+
+                                        </div>
+
+                                        <div class="dez-post-meta">
+
+                                            <ul>
+
+                                                <li class="post-author">Temmuz</li>
+
+                                                <li class="post-comment">09</li>
+
+                                            </ul>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+								
+
+								
+								
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 footer-col-4">
+
+                        <div class="widget widget_services">
+
+                            <h4 class="m-b15 text-uppercase">Hızlı Menü</h4>
+
+                            <div class="dez-separator-outer m-b10">
+
+                                <div class="dez-separator bg-white style-skew"></div>
+
+                            </div>
+
+                            <ul>
+
+                                                                <li><a href="sayfa-firmamiz-hakkinda-48.html">Hakkımızda</a></li>
+                                <li><a href="galeri-1.html">Resim Galeri</a></li>
+                                <li><a href="referanslar-1.html">Referanslar</a></li>
+                                <li><a href="bilgiler-1.html">S.S.S</a></li>
+                                <li><a href="haberler-1.html">Haberler</a></li>
+                                <li><a href="iletisim.html">iletişim</a></li>
+
+
+
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 footer-col-4">
+
+                        <div class="widget widget_getintuch">
+
+                            <h4 class="m-b15 text-uppercase">İletişim Bilgileri</h4>
+
+                            <div class="dez-separator-outer m-b10">
+
+                                <div class="dez-separator bg-white style-skew"></div>
+
+                            </div>
+
+                            <ul>
+
+                                <li><i class="fa fa-map-marker"></i><strong>Adres</strong> Abdurrahmangazi Mah. Şanlıurfa Cad. No: 29 <br>Sultanbeyli / İstanbul / TÜRKİYE </li>
+
+                                <li><i class="fa fa-phone"></i><strong>Telefon</strong>02163983535</li>
+
+                                <li><i class="fa fa-envelope"></i><strong>E-Posta</strong>info@guller.k12.tr</li>
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- footer bottom part -->
+
+		<div class="footer-bottom ">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-12 text-center"> <span>© Copyright - 2019 - Özel Güller Mesleki ve Teknik Anadolu Lisesi</span> </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+    <!-- Footer END-->
+
+    <!-- scroll top button -->
+
+    <button class="scroltop fa fa-arrow-up" ></button>
+
+
+
+		<script type="text/javascript"  src="style/js/jquery.min.js"></script>
+
+
+
+<!-- jquery.min js -->
+
+
+
+<script type="text/javascript"  src="style/js/bootstrap.min.js"></script>
+
+
+
+<!-- bootstrap.min js -->
+
+
+
+<script type="text/javascript"  src="style/js/bootstrap-select.min.js"></script>
+
+
+
+<!-- Form js -->
+
+
+
+<script type="text/javascript"  src="style/js/jquery.bootstrap-touchspin.js"></script>
+
+
+
+<!-- Form js -->
+
+
+
+<script type="text/javascript"  src="style/js/magnific-popup.js"></script>
+
+
+
+<!-- magnific-popup js -->
+
+
+
+<script type="text/javascript"  src="style/js/waypoints-min.js"></script>
+
+
+
+<!-- waypoints js -->
+
+
+
+<script type="text/javascript"  src="style/js/counterup.min.js"></script>
+
+
+
+<!-- counterup js -->
+
+
+
+<script type="text/javascript" src="style/js/imagesloaded.js"></script>
+
+
+
+<!-- masonry  -->
+
+
+
+<script type="text/javascript" src="style/js/masonry-3.1.4.js"></script>
+
+
+
+<!-- masonry  -->
+
+
+
+<script type="text/javascript" src="style/js/masonry.filter.js"></script>
+
+
+
+<!-- masonry  -->
+
+
+
+<script type="text/javascript"  src="style/js/owl.carousel.js"></script>
+
+
+
+<!-- OWL  Slider  -->
+
+
+
+<script type="text/javascript"  src="style/js/custom.min.js"></script>
+
+
+
+<!-- custom fuctions  -->
+
+
+
+<script type="text/javascript"  src="style/js/dz.carousel.js"></script>
+
+
+
+<!-- sortcode fuctions  -->
+
+
+
+<!-- switcher fuctions  -->
+
+
+
+<script type="text/javascript"  src="style/js/dz.ajax.js"></script>
+
+
+
+<!-- contact-us js -->
+
+
+
+<!-- revolution JS FILES -->
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js"></script>
+
+
+
+<!-- Slider revolution 5.0 Extensions  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+
+
+
+<script type="text/javascript" src="style/plugins/revolution/revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+
+
+<script type="text/javascript">
+
+
+
+				var tpj=jQuery;
+
+
+
+	
+
+
+
+	var revapi1014;
+
+
+
+	tpj(document).ready(function() {
+
+
+
+		if(tpj("#rev_slider_1014_1").revolution == undefined){
+
+
+
+			revslider_showDoubleJqueryError("#rev_slider_1014_1");
+
+
+
+		}else{
+
+
+
+			revapi1014 = tpj("#rev_slider_1014_1").show().revolution({
+
+
+
+				sliderType:"standard",
+
+
+
+				jsFileLocation:"//server.local/revslider/wp-content/plugins/revslider/public/assets/js/",
+
+
+
+				dottedOverlay:"none",
+
+
+
+				delay:9000,
+
+
+
+				startwidth:1200,
+
+
+
+				startheight:750,
+
+
+
+				hideThumbs:600,
+
+
+
+				navigation: {
+
+
+
+					keyboardNavigation:"off",
+
+
+
+					keyboard_direction: "horizontal",
+
+
+
+					mouseScrollNavigation:"off",
+
+
+
+					mouseScrollReverse:"default",
+
+
+
+					onHoverStop:"off",
+
+
+
+					touch:{
+
+
+
+						touchenabled:"on",
+
+
+
+						swipe_threshold: 75,
+
+
+
+						swipe_min_touches: 1,
+
+
+
+						swipe_direction: "horizontal",
+
+
+
+						drag_block_vertical: false
+
+
+
+					}
+
+
+
+					,
+
+
+
+					arrows: {
+
+
+
+							style: "hermes",
+
+
+
+							enable: true,
+
+
+
+							hide_onmobile: false,
+
+
+
+							hide_onleave: false,
+
+
+
+							tmp: '<div class="tp-arr-allwrapper">	<div class="tp-arr-imgholder"></div>	<div class="tp-arr-titleholder">{{title}}</div>	</div>',
+
+
+
+							left: {
+
+
+
+								h_align: "left",
+
+
+
+								v_align: "center",
+
+
+
+								h_offset: 0,
+
+
+
+								v_offset: 0
+
+
+
+							},
+
+
+
+							right: {
+
+
+
+								h_align: "right",
+
+
+
+								v_align: "center",
+
+
+
+								h_offset: 0,
+
+
+
+								v_offset: 0
+
+
+
+							}
+
+
+
+						}
+
+
+
+				},
+
+
+
+				responsiveLevels:[1240,1024,778,480],
+
+
+
+				visibilityLevels:[1240,1024,778,480],
+
+
+
+
+
+
+
+				lazyType:"none",
+
+
+
+				shadow:0,
+
+
+
+				spinner:"off",
+
+
+
+				stopLoop:"on",
+
+
+
+				stopAfterLoops:0,
+
+
+
+				stopAtSlide:1,
+
+
+
+				shuffle:"off",
+
+
+
+				autoHeight:"off",
+
+
+
+				fullScreenAutoWidth:"off",
+
+
+
+				fullScreenAlignForce:"off",
+
+
+
+				fullScreenOffsetContainer: "",
+
+
+
+				fullScreenOffset: "60px",
+
+
+
+				disableProgressBar:"on",
+
+
+
+				hideThumbsOnMobile:"off",
+
+
+
+				hideSliderAtLimit:0,
+
+
+
+				hideCaptionAtLimit:0,
+
+
+
+				hideAllCaptionAtLilmit:0,
+
+
+
+				debugMode:false,
+
+
+
+				fallbacks: {
+
+
+
+					simplifyAll:"off",
+
+
+
+					nextSlideOnWindowFocus:"off",
+
+
+
+					disableFocusListener:false,
+
+
+
+				}
+
+
+
+			});
+
+
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+	});	/*ready*/
+
+
+
+</script>
+
+
+
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+
+	<script type="text/javascript" src="style/cekirdek/js/wow.js"></script>
+
+
+
+	<script type="text/javascript" src="style/cekirdek/js/jquery.mmenu.all.min.js"></script>
+
+
+
+	<script type="text/javascript" src="style/cekirdek/js/bootbox.min.js"></script>
+
+
+
+	<script type="text/javascript" src="style/cekirdek/js/jquery.isotope.js"></script>
+
+
+
+	<script type="text/javascript" src="style/cekirdek/js/imagesloaded.pkgd.min.js"></script>	
+
+
+
+	
+
+
+
+	<script type="text/javascript">
+
+
+
+	$(function(){
+
+
+
+		
+
+
+
+		var $container = $('#isotope-cont');
+
+
+
+		$container.isotope({
+
+
+
+			filter: '*',
+
+
+
+			animationOptions: {
+
+
+
+				duration: 750,
+
+
+
+				easing: 'linear',
+
+
+
+				queue: false
+
+
+
+			}
+
+
+
+		});
+
+
+
+		$('.portfolioFilter a').click(function(){
+
+
+
+			$('.portfolioFilter .current').removeClass('current');
+
+
+
+			$(this).addClass('current');
+
+
+
+	 
+
+
+
+			var selector = $(this).attr('data-filter');
+
+
+
+			$container.isotope({
+
+
+
+				filter: selector,
+
+
+
+				animationOptions: {
+
+
+
+					duration: 750,
+
+
+
+					easing: 'linear',
+
+
+
+					queue: false
+
+
+
+				}
+
+
+
+			 });
+
+
+
+			 return false;
+
+
+
+		});
+
+
+
+	});
+
+
+
+</script>
+
+
+
+ 	 <script>
+
+
+
+	new WOW().init();
+
+
+
+  </script>	
+
+
+
+ <script type="text/javascript">
+
+
+
+	$(window).load(function(){
+
+
+
+		$('.hiratuva-loading').fadeOut(400);
+
+
+
+	});
+
+
+
+	</script>
+
+    
+
+
+
+	<script type="text/javascript" src="style/cekirdek/js/hiratuva.js"></script>
+
+    <script type="text/javascript"> <!--javascript kodumuzu yazmaya başlıyoruz-->
+jQuery(document).ready(function(){
+    $('#hesapform').submit(function(){ //id'si hesapform olan formumuz için submit eventini yakalıyoruz
+        $.ajax({ //jquery içindeki ajax fonksiyonunu çağırıyoruz
+            type: "GET", //ajax kullanırkken kullanacağımız methodu belirliyoruz
+            url: "sistem/posta.php", //ajax ile hangi dosyaya bağlanmak istediğimizi belirtiyoruz
+            data: $('#hesapform').serialize(), //ajax.php dosyamıza hangi argümentlerin yollanacağını seçiyoruz
+            success: function(ajaxcevap){ //ajax.php dosyasından gelen cevabı ajaxcevap değişkenine atıyor
+                $('#sonuc').html(ajaxcevap); 
+                }
+            });
+            return false;
+            });
+            });
+</script>
+
+    	<!-- VİDEO BASLANGIC -->
+
+    <link rel="stylesheet" type="text/css" href="style/cekirdek/video/YouTubePopUp.css">
+
+	<script type="text/javascript" src="style/cekirdek/video/YouTubePopUp.jquery.js"></script>
+
+    	<script type="text/javascript">
+
+		jQuery(function(){
+
+			jQuery("a.bla-1").YouTubePopUp();
+
+			jQuery("a.bla-2").YouTubePopUp( { autoplay: 0 } ); // Disable autoplay
+
+		});
+
+	</script> 
+
+    	<!-- VIDEO BITIS --></div>
+</body>
+</html>
+   
